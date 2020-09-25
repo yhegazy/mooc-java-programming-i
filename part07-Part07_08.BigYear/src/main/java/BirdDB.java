@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class BirdDB {
     private String name;
     private String latinName;
